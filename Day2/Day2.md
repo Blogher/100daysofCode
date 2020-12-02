@@ -1,11 +1,10 @@
 # Day 2
 
-I learnt about strings, and touched variables briefly. I also learnt about hardcoding and string interpolation.
+I learnt about strings, and touched variables briefly. I also learnt about hardcoding and string interpolation. Sometimes I forget I don't have to declare and assign on different lines. 
 
-string name = "Bob";
-int message = 3;
-decimal temperature = 34.4m;
+All I have to do is:
+    string firstName = "Bidemi";
+    decimal heightInFt = 5.5m;
 
-Console.WriteLine("Hello " + name + "! You have " + message + " in your inbox. The temperature is " + temperature + " celcius");
 
-And yes, I found out why decimals data types have the "m" suffix
+And yes, I found out why decimals data types have the "m" suffix. Check [here](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/numbers-in-csharp?tutorial-step=5)
