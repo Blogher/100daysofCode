@@ -11,3 +11,5 @@ More details [here](Day1/Day1.md)
 I worked with strings today, I learnt to how to declare and assign values to data types. 
 
 More details [here](Day2/Day2.md)
+
+##Day 3
