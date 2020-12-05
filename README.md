@@ -17,7 +17,7 @@ I continued working with strings today, I think I have my first project idea.
 
 More details [here](Day3\README.md)
 
-## Day 3
+## Day 4
 I worked with numbers today fun and also tricky.
 
 More details [here](Day4\README.md)
