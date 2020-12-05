@@ -5,7 +5,7 @@ Blogher's 100daysofCode learning C#
 ## Day 1
 I learnt to write Hello World, and installed all my tools.
 
-More details [here](Day1\obj\README.md)
+More details [here](Day1\README.md)
 
 ## Day 2
 I worked with strings today, I learnt to how to declare and assign values to data types. 
