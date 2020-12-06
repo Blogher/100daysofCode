@@ -1,4 +1,4 @@
-#100daysofCode
+# 100daysofCode
 
 Blogher's 100daysofCode learning C#
 
@@ -21,3 +21,13 @@ More details [here](Day3\README.md)
 I worked with numbers today fun and also tricky.
 
 More details [here](Day4\README.md)
+
+## Day 5
+Wrote code for the first time in Visual studio. I am still trying to get used to it, I always wondered what major difference Visual Studio and Visual Studio code had.
+
+More details [here](Day5\README.md)
+
+## Day 6
+Learnt about if and else statements. I really want to spend more time learning.
+
+More details [here](Day6\README.md)
