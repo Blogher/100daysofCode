@@ -31,3 +31,11 @@ Ok this is me writing out how I want my app to be.
 
 ## Day 8
 Bugs!!! I had to go over the C# 101 videos again. Ok so how do you figure out something you weren't taught in a tutorial?
+
+## Day 9
+
+## Day 10
+
+## Day 11
+
+## Day 12
