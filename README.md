@@ -33,8 +33,10 @@ Ok this is me writing out how I want my app to be.
 Bugs!!! I had to go over the C# 101 videos again. Ok so how do you figure out something you weren't taught in a tutorial?
 
 ## Day 9
+Reiterating!! I love how this is going.
 
 ## Day 10
+See who discovered emojis in vs code today!! 💃💃💃💃
 
 ## Day 11
 
